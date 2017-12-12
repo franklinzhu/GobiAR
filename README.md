@@ -3,6 +3,8 @@
 
 GobiAR built for IWC Stimulation
 
+[Download .ipa file](https://drive.google.com/open?id=1cqjcoZckj7CnUV2kOBK4EMS2jmyW9nUO)
+
 ### Install (For selected devices that are registered with the the mobile provision)
 1. Download the .ipa file from the repository.
 2. Open Xcode go to Window and then select Devices and Simulators.
